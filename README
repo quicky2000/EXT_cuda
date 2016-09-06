@@ -1,0 +1,11 @@
+#------------------------
+# EXT_cuda
+#------------------------
+
+This object allow to use CUDA inside projects built with quicky_tools
+
+By default 
+EXT_MICROHTTPD_INC_DIR=/usr/include
+EXT_MICROHTTPD_LIB_DIR=/usr/lib/x86_64-linux-gnu/
+
+#EOF
