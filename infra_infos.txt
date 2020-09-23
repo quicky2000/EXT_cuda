@@ -1,3 +1,4 @@
 depend:
+env_variables:
 CFLAGS:
 LDFLAGS:-L/usr/local/cuda/lib64 -lcudart
